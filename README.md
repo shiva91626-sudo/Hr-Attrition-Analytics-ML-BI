@@ -91,36 +91,6 @@ Department-level comparisons
 
 Tooltip-driven storytelling
 
-📁 Repository Structure
-HR-Attrition-Analytics/
-│
-├── Raw Data/
-│   └── hr_data.csv
-│
-├── Notebook/
-│   ├── data_cleaning_eda.ipynb
-│   ├── feature_engineering.ipynb
-│   ├── model_training.ipynb
-│   └── model_evaluation.ipynb
-│
-├── Model/
-│   ├── random_forest_model.pkl
-│   └── model_metrics.json
-│
-├── Reports/
-│   ├── project_proposal.pdf
-│   ├── eda_summary.pdf
-│   ├── model_comparison.pdf
-│   ├── final_model_report.pdf
-│   ├── business_insights.pdf
-│   ├── recommendations.pdf
-│   └── model_assumptions.pdf
-│
-├── Dashboards/
-│   ├── PowerBI/
-│   └── Tableau/
-│
-└── README.md
 
 🛠 Tools & Technologies
 
